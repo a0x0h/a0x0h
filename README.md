@@ -7,8 +7,9 @@
 <a href="https://lhosseini.ir/tradevision.html"><img src="assets/builds/tradevision.svg" width="100%" alt="Flagship — TradeVision v3.00, a trading expert for MetaTrader 5 built in MQL5. Running in live markets."></a>
 
 <p>
-  <a href="https://github.com/a0x0h/airport-twin"><img src="assets/repos/airport-twin.svg" width="49.5%" alt="airport-twin — 3D digital twin of Mashhad airport. TypeScript."></a>
-  <a href="https://github.com/a0x0h/Clueless"><img src="assets/repos/clueless.svg" width="49.5%" alt="Clueless — invisible AI copilot for interviews and meetings. C#."></a>
+  <a href="https://sullis.ai"><img src="assets/repos/sullis.svg" width="32.6%" alt="Sullis — operating system for venture building: AI agents for research, validation and portfolio scoring. sullis.ai"></a>
+  <a href="https://github.com/a0x0h/airport-twin"><img src="assets/repos/airport-twin.svg" width="32.6%" alt="airport-twin — 3D digital twin of Mashhad airport. TypeScript."></a>
+  <a href="https://github.com/a0x0h/Clueless"><img src="assets/repos/clueless.svg" width="32.6%" alt="Clueless — invisible AI copilot for interviews and meetings. C#."></a>
 </p>
 
 <p>

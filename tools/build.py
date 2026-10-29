@@ -389,12 +389,12 @@ def tradevision():
 # --------------------------------------------------------------------------- repos
 
 REPOS = [
+    ("Sullis", "Operating system for venture building: AI agents for research, validation and portfolio scoring.",
+     "sullis.ai · Next.js · FastAPI", PAL["agent"]),
     ("airport-twin", "3D digital twin of Mashhad airport, driven by a seeded discrete-event simulation.",
      "TypeScript", "#3178c6"),
     ("Clueless", "Invisible AI copilot for interviews and meetings. Offline speech, hidden from screen share.",
      "C#", "#178600"),
-    ("Iranian_Messenger_Chat_Export", "Privacy-first Chrome extension exporting Bale, Eitaa and Rubika chats.",
-     "JavaScript", "#f1e05a"),
 ]
 
 
