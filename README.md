@@ -9,7 +9,6 @@
 <p>
   <a href="https://github.com/a0x0h/airport-twin"><img src="assets/repos/airport-twin.svg" width="32.6%" alt="airport-twin — 3D digital twin of Mashhad airport. TypeScript."></a>
   <a href="https://github.com/a0x0h/Clueless"><img src="assets/repos/clueless.svg" width="32.6%" alt="Clueless — invisible AI copilot for interviews and meetings. C#."></a>
-  <a href="https://github.com/a0x0h/Iranian_Messenger_Chat_Export"><img src="assets/repos/iranian_messenger_chat_export.svg" width="32.6%" alt="Iranian_Messenger_Chat_Export — privacy-first chat export extension. JavaScript."></a>
 </p>
 
 <p>
